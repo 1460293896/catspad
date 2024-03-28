@@ -5,9 +5,9 @@ Cats(Catspa)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://choosealicense.com/licenses/isc/)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/catspa3/catspad)
 
-Catsd is the reference full node Cats implementation written in Go (golang).
+Cats(Catspa) is the reference full node Cats implementation written in Go (golang).
 
-Catsd fork from kaspad
+Cats(Catspa) fork from kaspad
 
 ## Documentation
 
